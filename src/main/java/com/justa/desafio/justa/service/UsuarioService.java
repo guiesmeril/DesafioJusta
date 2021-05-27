@@ -60,6 +60,8 @@ public class UsuarioService {
 
 		usuario.setIdUsuario(idUsuario);
 		usuario.setNomeUsuario(request.getNomeUsuario());
+		usuario.setEmail(request.getEmail());
+		usuario.setSenha(request.getSenha());
 		usuario.setIdadeUsuario(request.getIdadeUsuario());
 		usuario.setEstadoUsuario(request.getEstadoUsuario());
 		usuario.setCidadeUsuario(request.getCidadeUsuario());

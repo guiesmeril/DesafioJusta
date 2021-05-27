@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">
+<p>
 Você precisa desenvolver um REST API, que deverá ser implementado em Java, Scala, Kotlin ou GO. O conteúdo da aplicação e o 
 framework que será utilizado é de escolha do candidato.
 </p>

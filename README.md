@@ -4,7 +4,7 @@
 
 <p align="center">
 Você precisa desenvolver um REST API, que deverá ser implementado em Java, Scala, Kotlin ou GO. O conteúdo da aplicação e o 
-framework que será utilizado é de escolha do candidato, sendo necessário apenas que os requisitos abaixo sejam preenchidos.
+framework que será utilizado é de escolha do candidato.
 </p>
 
 <p align="center">
